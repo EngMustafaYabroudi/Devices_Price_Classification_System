@@ -80,7 +80,7 @@ jupyter notebook
 * **Using Database:**
     * **Spring Boot:** Retrieve data from the database to display predictions.
 
-### 4. Jupyter Notebook:
+### 4.Devices_Price_Classification_System  Jupyter Notebook:
 
 * **Machine Learning Algorithms:**
 
