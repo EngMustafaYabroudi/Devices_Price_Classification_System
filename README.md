@@ -88,7 +88,6 @@ jupyter notebook
         * Support Vector Machines (SVM)
         * Decision Trees
         * Random Forest
-        * SVM 
 
 * **Python Libraries:**
 
