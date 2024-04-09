@@ -1,6 +1,4 @@
 # Devices_Price_Classification_System
-## README for Devices_Price_Classification_System
-
 **1. Introduction:**
 
 **Title:** Device Price Classification System
@@ -41,19 +39,10 @@
 * **Clone each project separately:**
 
 ```
-git clone https://github.com/your-username/flaskPredictionProject.git
-git clone https://github.com/your-username/SpringBootProject.git
-git clone https://github.com/your-username/jupyterNotebookProject.git
-```
-
-* **Use a single folder:**
+git clone https://github.com/EngMustafaYabroudi/Devices_Price_Classification_System
 
 ```
-git clone https://github.com/your-username/mainProject.git
 
-cd mainProject
-
-# Move files and folders to appropriate locations
 ```
 
 ### 2. Running:
@@ -61,15 +50,15 @@ cd mainProject
 **Flask:**
 
 ```
-cd flaskPredictionProject
+cd flask_device_prediction
 
-python main.py
+python app.py
 ```
 
 **Spring Boot:**
 
 ```
-cd SpringBootProject
+cd Devices_Price_Classification_System
 
 ./mvnw spring-boot:run
 ```
@@ -77,7 +66,7 @@ cd SpringBootProject
 **Jupyter Notebook:**
 
 ```
-cd jupyterNotebookProject
+cd Devices_Price_Classification_System
 
 jupyter notebook
 ```
