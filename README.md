@@ -4,6 +4,7 @@
 **Title:** Device Price Classification System
 
 **Description:** This project is a system for classifying device prices using machine learning techniques.
+More information about the system [wiki](https://github.com/EngMustafaYabroudi/Devices_Price_Classification_System/wiki/Devices_Price_Classification_System_Description)
 
 **Purpose:** To help users predict device prices based on their specifications.
 
@@ -28,15 +29,13 @@
 * **Spring Boot FrameWork** 
 
 
-**4. How to Use the System:**
-
-بالتأكيد ، فيما يلي إرشادات حول كيفية استخدام النظام مع Flask و Spring Boot و Jupyter Notebook:
+**4. How to Use the System :**
 
 ## How to use the system with Flask, Spring Boot, and Jupyter Notebook
 
 ### 1. Cloning:
 
-* **Clone each project separately:**
+* **Clone project :**
 
 ```
 git clone https://github.com/EngMustafaYabroudi/Devices_Price_Classification_System
@@ -78,7 +77,7 @@ jupyter notebook
     * **Spring Boot:** Consume the Flask API in Spring Boot to display predictions.
 
 * **Using Database:**
-    * **Spring Boot:** Retrieve data from the database to display predictions.
+    * **Spring Boot:** Retrieve data from the database to display device information and predictions.
 
 ### 4.Devices_Price_Classification_System  Jupyter Notebook:
 
