@@ -43,7 +43,6 @@ git clone https://github.com/EngMustafaYabroudi/Devices_Price_Classification_Sys
 
 ```
 
-```
 
 ### 2. Running:
 
