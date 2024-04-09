@@ -26,17 +26,85 @@
 **3. Technologies Used:**
 
 * **Python:** The primary programming language for the project.
-* **NumPy:** A library for data analysis.
-* **Pandas:** A library for reading and processing data.
-* **Scikit-learn:** The primary machine learning library.
-* **TensorFlow:** A deep learning library.
+* **Flask FrameWork**
+* **Spring Boot FrameWork** 
+
 
 **4. How to Use the System:**
 
-1. **Clone the repository:** Clone the repository from GitHub.
-2. **Install the requirements:** Install the requirements using pip.
-3. **Run the system:** Run the main.py file.
-4. **Enter device specifications:** Enter the specifications of the device you want to predict the price for.
-5. **View the result:** The system will display the predicted price of the device.
+بالتأكيد ، فيما يلي إرشادات حول كيفية استخدام النظام مع Flask و Spring Boot و Jupyter Notebook:
 
+## How to use the system with Flask, Spring Boot, and Jupyter Notebook
 
+### 1. Cloning:
+
+* **Clone each project separately:**
+
+```
+git clone https://github.com/your-username/flaskPredictionProject.git
+git clone https://github.com/your-username/SpringBootProject.git
+git clone https://github.com/your-username/jupyterNotebookProject.git
+```
+
+* **Use a single folder:**
+
+```
+git clone https://github.com/your-username/mainProject.git
+
+cd mainProject
+
+# Move files and folders to appropriate locations
+```
+
+### 2. Running:
+
+**Flask:**
+
+```
+cd flaskPredictionProject
+
+python main.py
+```
+
+**Spring Boot:**
+
+```
+cd SpringBootProject
+
+./mvnw spring-boot:run
+```
+
+**Jupyter Notebook:**
+
+```
+cd jupyterNotebookProject
+
+jupyter notebook
+```
+
+### 3. Linking Projects:
+
+* **Using API:**
+
+    * **Flask:** Create a RESTful API in Flask to receive price prediction requests.
+    * **Spring Boot:** Consume the Flask API in Spring Boot to display predictions.
+
+* **Using Database:**
+    * **Spring Boot:** Retrieve data from the database to display predictions.
+
+### 4. Jupyter Notebook:
+
+* **Machine Learning Algorithms:**
+
+    * **Classification:**
+        * K-Nearest Neighbors (KNN)
+        * Support Vector Machines (SVM)
+        * Decision Trees
+        * Random Forest
+        * SVM 
+
+* **Python Libraries:**
+
+    * **NumPy:** Data analysis.
+    * **Pandas:** Data manipulation.
+    * **Scikit-learn:** Core machine learning library.
